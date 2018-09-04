@@ -1,1 +1,1 @@
-web:votd-pub
+web:server
