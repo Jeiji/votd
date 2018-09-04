@@ -32,7 +32,7 @@ func main() {
 	}
 
 	// For the index page
-	e.Static("/", "../src/")
+	e.Static("/", "./src/")
 
 	// GET from Our Mannna for Verse Of The Day (VOTD)
 	// when client sends request to this path
